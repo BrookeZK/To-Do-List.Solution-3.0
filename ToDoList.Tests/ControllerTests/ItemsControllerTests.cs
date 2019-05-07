@@ -9,7 +9,7 @@ namespace ToDoList.Tests
     [TestClass]
     public class ItemControllerTest
     {
-      // 
+      //
       // [TestMethod]
       // public void Create_ReturnsCorrectActionType_RedirectToActionResult()
       // {
@@ -35,7 +35,7 @@ namespace ToDoList.Tests
       //
       //   //Assert
       //   Assert.AreEqual(result, "Index");
-      // }
+      // } 
 
     }
 }
